@@ -63,7 +63,7 @@
       <div class="brand">
         <div class="logo">CN</div>
         <div>
-          <div style="font-weight:800">Care Nest</div>
+          <div style="font-weight:800">PrimeCover</div>
           <div style="font-size:12px;color:var(--muted)">Insurance & Care</div>
         </div>
       </div>
@@ -80,7 +80,7 @@
     <section class="hero" aria-labelledby="hero-heading">
       <div class="hero-grid">
         <span class="kicker">Trusted · Affordable · Fast Claims</span>
-        <h1 id="hero-heading">Care Nest — Insurance that looks after your family</h1>
+        <h1 id="hero-heading">PrimeCover — Insurance that looks after your family</h1>
         <p class="lead">Simple health and life insurance plans designed for families and individuals. Easy online purchase, transparent pricing, and a 24/7 claims support team ready to help.</p>
 
         <div class="cta-group">
@@ -196,7 +196,7 @@
           <li>Submit filled claim form & hospital bills via email or our portal.</li>
           <li>Our claims team will assist and guide you through the process until settlement.</li>
         </ol>
-        <p class="muted">For cashless admissions, contact our network hospital and inform Care Nest before admission.</p>
+        <p class="muted">For cashless admissions, contact our network hospital and inform PrimeCover before admission.</p>
       </div>
     </section>
 
@@ -227,7 +227,7 @@
         <div style="padding:12px;background:#f8faf8;border-radius:10px">
           <h4>Office</h4>
           <p class="muted">PrimeCover Insurance<br>123 Wellness Avenue<br>Bengaluru, India</p>
-          <p class="muted"><strong>Phone:</strong> 1800-123-CARE (2273)<br><strong>Email:</strong> support@carenest.example</p>
+          <p class="muted"><strong>Phone:</strong> 1800-123-CARE (2273)<br><strong>Email:</strong> support@PrimeCover.example</p>
         </div>
       </div>
     </section>
